@@ -1,0 +1,30 @@
+---
+title: "Diffusion Models"
+page-layout: article
+listing:
+  contents: ../posts
+  include:
+    categories: "diffusion"
+  sort: "date desc"
+  type: default
+  categories: false
+---
+
+## Series Overview
+
+This series provides deep technical dives into diffusion models, one of the most exciting developments in generative AI. We explore the mathematical foundations, implementation details, and cutting-edge research in score-based generative modeling.
+
+### Key Topics Covered:
+- Stochastic differential equations and reverse-time diffusion
+- Score matching and denoising objectives
+- Guidance techniques and conditional generation
+- Connections to variational inference and optimal transport
+- Efficient sampling and acceleration methods
+
+### The Power of Diffusion
+
+Diffusion models have revolutionized generative modeling by providing a principled framework for learning complex data distributions. Through careful analysis of the forward and reverse processes, we can understand how these models achieve state-of-the-art results across modalities.
+
+---
+
+## Posts in this Series

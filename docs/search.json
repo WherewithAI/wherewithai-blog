@@ -1,0 +1,233 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
+  },
+  {
+    "objectID": "series/diffusion.html",
+    "href": "series/diffusion.html",
+    "title": "Diffusion Models",
+    "section": "",
+    "text": "This series provides deep technical dives into diffusion models, one of the most exciting developments in generative AI. We explore the mathematical foundations, implementation details, and cutting-edge research in score-based generative modeling.\n\n\n\nStochastic differential equations and reverse-time diffusion\nScore matching and denoising objectives\nGuidance techniques and conditional generation\nConnections to variational inference and optimal transport\nEfficient sampling and acceleration methods\n\n\n\n\nDiffusion models have revolutionized generative modeling by providing a principled framework for learning complex data distributions. Through careful analysis of the forward and reverse processes, we can understand how these models achieve state-of-the-art results across modalities."
+  },
+  {
+    "objectID": "series/diffusion.html#series-overview",
+    "href": "series/diffusion.html#series-overview",
+    "title": "Diffusion Models",
+    "section": "",
+    "text": "This series provides deep technical dives into diffusion models, one of the most exciting developments in generative AI. We explore the mathematical foundations, implementation details, and cutting-edge research in score-based generative modeling.\n\n\n\nStochastic differential equations and reverse-time diffusion\nScore matching and denoising objectives\nGuidance techniques and conditional generation\nConnections to variational inference and optimal transport\nEfficient sampling and acceleration methods\n\n\n\n\nDiffusion models have revolutionized generative modeling by providing a principled framework for learning complex data distributions. Through careful analysis of the forward and reverse processes, we can understand how these models achieve state-of-the-art results across modalities."
+  },
+  {
+    "objectID": "series/diffusion.html#posts-in-this-series",
+    "href": "series/diffusion.html#posts-in-this-series",
+    "title": "Diffusion Models",
+    "section": "Posts in this Series",
+    "text": "Posts in this Series"
+  },
+  {
+    "objectID": "series/gnn.html",
+    "href": "series/gnn.html",
+    "title": "Graph Neural Networks",
+    "section": "",
+    "text": "This series examines representation learning on structured data through graph neural networks. We explore how message passing, spectral methods, and topological insights combine to enable powerful learning on graphs.\n\n\n\nMessage passing neural networks and aggregation schemes\nSpectral graph theory and graph convolutions\nExpressiveness and the Weisfeiler-Leman hierarchy\nGraph attention mechanisms and transformers\nApplications to molecules, social networks, and knowledge graphs\n\n\n\n\nGraphs provide a natural representation for relational data, and GNNs offer a principled way to learn from this structure. By understanding the theoretical foundations and practical considerations, we can build models that respect and exploit the geometry of our data."
+  },
+  {
+    "objectID": "series/gnn.html#series-overview",
+    "href": "series/gnn.html#series-overview",
+    "title": "Graph Neural Networks",
+    "section": "",
+    "text": "This series examines representation learning on structured data through graph neural networks. We explore how message passing, spectral methods, and topological insights combine to enable powerful learning on graphs.\n\n\n\nMessage passing neural networks and aggregation schemes\nSpectral graph theory and graph convolutions\nExpressiveness and the Weisfeiler-Leman hierarchy\nGraph attention mechanisms and transformers\nApplications to molecules, social networks, and knowledge graphs\n\n\n\n\nGraphs provide a natural representation for relational data, and GNNs offer a principled way to learn from this structure. By understanding the theoretical foundations and practical considerations, we can build models that respect and exploit the geometry of our data."
+  },
+  {
+    "objectID": "series/gnn.html#posts-in-this-series",
+    "href": "series/gnn.html#posts-in-this-series",
+    "title": "Graph Neural Networks",
+    "section": "Posts in this Series",
+    "text": "Posts in this Series"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "manifesto.html",
+    "href": "manifesto.html",
+    "title": "The Wherewithal Manifesto",
+    "section": "",
+    "text": "[This page will contain the Wherewithal Manifesto - please add your content here]\n\n\n[Add your core principles here]\n\n\n\n[Add your vision statement here]\n\n\n\n[Add your research philosophy here]"
+  },
+  {
+    "objectID": "manifesto.html#core-principles",
+    "href": "manifesto.html#core-principles",
+    "title": "The Wherewithal Manifesto",
+    "section": "",
+    "text": "[Add your core principles here]"
+  },
+  {
+    "objectID": "manifesto.html#vision",
+    "href": "manifesto.html#vision",
+    "title": "The Wherewithal Manifesto",
+    "section": "",
+    "text": "[Add your vision statement here]"
+  },
+  {
+    "objectID": "manifesto.html#research-philosophy",
+    "href": "manifesto.html#research-philosophy",
+    "title": "The Wherewithal Manifesto",
+    "section": "",
+    "text": "[Add your research philosophy here]"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Key Projects",
+    "section": "",
+    "text": "[This page will showcase your key research projects - please add your content here]\n\n\n[Add your current projects here]\n\n\n\n[Add your past projects here]\n\n\n\n[Add your collaborations here]"
+  },
+  {
+    "objectID": "projects.html#current-projects",
+    "href": "projects.html#current-projects",
+    "title": "Key Projects",
+    "section": "",
+    "text": "[Add your current projects here]"
+  },
+  {
+    "objectID": "projects.html#past-projects",
+    "href": "projects.html#past-projects",
+    "title": "Key Projects",
+    "section": "",
+    "text": "[Add your past projects here]"
+  },
+  {
+    "objectID": "projects.html#collaborations",
+    "href": "projects.html#collaborations",
+    "title": "Key Projects",
+    "section": "",
+    "text": "[Add your collaborations here]"
+  },
+  {
+    "objectID": "index.html#research-themes",
+    "href": "index.html#research-themes",
+    "title": "Wherewith.ai",
+    "section": "Research Themes",
+    "text": "Research Themes\nExplore our ongoing series of in-depth technical reviews and analyses:\n\n\nCurvature Methods in ML → - Geometric approaches to understanding neural networks and optimization landscapes\nDiffusion Models → - Deep dives into generative modeling with diffusion processes\nGraph Neural Networks → - Exploring representation learning on structured data\nInterpretability → - Making sense of what neural networks learn"
+  },
+  {
+    "objectID": "index.html#latest-posts",
+    "href": "index.html#latest-posts",
+    "title": "Wherewith.ai",
+    "section": "Latest Posts",
+    "text": "Latest Posts\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\nnews\n\ncode\n\nanalysis\n\n\n\n\n\n\n\n\n\nJun 22, 2025\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nJun 19, 2025\n\n\nTristan O’Malley\n\n\n\n\n\n\n\n\n\n\n\n\nUnderstanding Loss Landscape Geometry Through Hessian Analysis\n\n\n\ncurvature\n\noptimization\n\ndeep-learning\n\n\n\nAn exploration of how the Hessian matrix reveals critical insights about neural network optimization dynamics.\n\n\n\n\n\nJan 6, 2025\n\n\nWherewith.ai Research Team\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/example-curvature-post/index.html",
+    "href": "posts/example-curvature-post/index.html",
+    "title": "Understanding Loss Landscape Geometry Through Hessian Analysis",
+    "section": "",
+    "text": "The geometry of loss landscapes in deep learning has profound implications for optimization dynamics and generalization. In this post, we explore how Hessian analysis provides a window into understanding these complex high-dimensional surfaces."
+  },
+  {
+    "objectID": "posts/example-curvature-post/index.html#introduction",
+    "href": "posts/example-curvature-post/index.html#introduction",
+    "title": "Understanding Loss Landscape Geometry Through Hessian Analysis",
+    "section": "",
+    "text": "The geometry of loss landscapes in deep learning has profound implications for optimization dynamics and generalization. In this post, we explore how Hessian analysis provides a window into understanding these complex high-dimensional surfaces."
+  },
+  {
+    "objectID": "posts/example-curvature-post/index.html#the-hessian-matrix",
+    "href": "posts/example-curvature-post/index.html#the-hessian-matrix",
+    "title": "Understanding Loss Landscape Geometry Through Hessian Analysis",
+    "section": "The Hessian Matrix",
+    "text": "The Hessian Matrix\nThe Hessian matrix \\(H\\) of a loss function \\(\\mathcal{L}\\) captures second-order curvature information:\n\\[H_{ij} = \\frac{\\partial^2 \\mathcal{L}}{\\partial \\theta_i \\partial \\theta_j}\\]\nThis matrix encodes rich information about the local geometry around critical points."
+  },
+  {
+    "objectID": "posts/example-curvature-post/index.html#key-insights",
+    "href": "posts/example-curvature-post/index.html#key-insights",
+    "title": "Understanding Loss Landscape Geometry Through Hessian Analysis",
+    "section": "Key Insights",
+    "text": "Key Insights\n\nEigenvalue spectrum: The distribution of Hessian eigenvalues reveals the conditioning of the optimization problem\nNegative curvature: Directions of negative curvature indicate saddle points\nSharp vs flat minima: The magnitude of eigenvalues correlates with generalization properties"
+  },
+  {
+    "objectID": "posts/example-curvature-post/index.html#practical-implications",
+    "href": "posts/example-curvature-post/index.html#practical-implications",
+    "title": "Understanding Loss Landscape Geometry Through Hessian Analysis",
+    "section": "Practical Implications",
+    "text": "Practical Implications\nUnderstanding loss landscape geometry helps us: - Design better optimizers - Predict training dynamics - Improve model robustness"
+  },
+  {
+    "objectID": "posts/example-curvature-post/index.html#code-example",
+    "href": "posts/example-curvature-post/index.html#code-example",
+    "title": "Understanding Loss Landscape Geometry Through Hessian Analysis",
+    "section": "Code Example",
+    "text": "Code Example\nimport torch\nimport torch.nn.functional as F\n\ndef compute_hessian_eigenvalues(model, loss_fn, data_loader):\n    \"\"\"Compute top eigenvalues of the Hessian using power iteration.\"\"\"\n    # Implementation details...\n    pass"
+  },
+  {
+    "objectID": "posts/example-curvature-post/index.html#conclusion",
+    "href": "posts/example-curvature-post/index.html#conclusion",
+    "title": "Understanding Loss Landscape Geometry Through Hessian Analysis",
+    "section": "Conclusion",
+    "text": "Conclusion\nHessian analysis provides crucial insights into the optimization landscape of neural networks. By understanding these geometric properties, we can build more efficient and robust learning algorithms."
+  },
+  {
+    "objectID": "posts/example-curvature-post/index.html#references",
+    "href": "posts/example-curvature-post/index.html#references",
+    "title": "Understanding Loss Landscape Geometry Through Hessian Analysis",
+    "section": "References",
+    "text": "References\n[Add relevant references here]"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code."
+  },
+  {
+    "objectID": "series/interpretability.html",
+    "href": "series/interpretability.html",
+    "title": "Neural Network Interpretability",
+    "section": "",
+    "text": "This series tackles the challenge of understanding what neural networks learn and how they make decisions. We explore techniques from mechanistic interpretability to feature visualization, seeking to open the black box of deep learning.\n\n\n\nMechanistic interpretability and circuit discovery\nFeature visualization and activation atlases\nProbing methods and representation analysis\nCausal interventions and ablation studies\nConnections to neuroscience and cognitive science\n\n\n\n\nAs neural networks become more powerful and ubiquitous, understanding their internal workings becomes crucial. This series presents rigorous methods for interpreting learned representations and uncovering the algorithms that emerge from gradient descent."
+  },
+  {
+    "objectID": "series/interpretability.html#series-overview",
+    "href": "series/interpretability.html#series-overview",
+    "title": "Neural Network Interpretability",
+    "section": "",
+    "text": "This series tackles the challenge of understanding what neural networks learn and how they make decisions. We explore techniques from mechanistic interpretability to feature visualization, seeking to open the black box of deep learning.\n\n\n\nMechanistic interpretability and circuit discovery\nFeature visualization and activation atlases\nProbing methods and representation analysis\nCausal interventions and ablation studies\nConnections to neuroscience and cognitive science\n\n\n\n\nAs neural networks become more powerful and ubiquitous, understanding their internal workings becomes crucial. This series presents rigorous methods for interpreting learned representations and uncovering the algorithms that emerge from gradient descent."
+  },
+  {
+    "objectID": "series/interpretability.html#posts-in-this-series",
+    "href": "series/interpretability.html#posts-in-this-series",
+    "title": "Neural Network Interpretability",
+    "section": "Posts in this Series",
+    "text": "Posts in this Series"
+  },
+  {
+    "objectID": "series/curvature.html",
+    "href": "series/curvature.html",
+    "title": "Curvature Methods in Machine Learning",
+    "section": "",
+    "text": "This series explores geometric approaches to understanding neural networks and optimization landscapes through the lens of curvature. We examine how differential geometry, Riemannian manifolds, and curvature tensors can provide insights into the behavior of deep learning systems.\n\n\n\nLoss landscape geometry and critical points\nNatural gradient methods and Fisher information\nHessian analysis and second-order optimization\nGeometric deep learning on manifolds\nConnections to physics and information geometry\n\n\n\n\nUnderstanding the curvature of optimization landscapes helps us design better algorithms, predict training dynamics, and build more interpretable models. By bringing tools from differential geometry to bear on machine learning problems, we can uncover fundamental principles that govern learning in high-dimensional spaces."
+  },
+  {
+    "objectID": "series/curvature.html#series-overview",
+    "href": "series/curvature.html#series-overview",
+    "title": "Curvature Methods in Machine Learning",
+    "section": "",
+    "text": "This series explores geometric approaches to understanding neural networks and optimization landscapes through the lens of curvature. We examine how differential geometry, Riemannian manifolds, and curvature tensors can provide insights into the behavior of deep learning systems.\n\n\n\nLoss landscape geometry and critical points\nNatural gradient methods and Fisher information\nHessian analysis and second-order optimization\nGeometric deep learning on manifolds\nConnections to physics and information geometry\n\n\n\n\nUnderstanding the curvature of optimization landscapes helps us design better algorithms, predict training dynamics, and build more interpretable models. By bringing tools from differential geometry to bear on machine learning problems, we can uncover fundamental principles that govern learning in high-dimensional spaces."
+  },
+  {
+    "objectID": "series/curvature.html#posts-in-this-series",
+    "href": "series/curvature.html#posts-in-this-series",
+    "title": "Curvature Methods in Machine Learning",
+    "section": "Posts in this Series",
+    "text": "Posts in this Series"
+  }
+]

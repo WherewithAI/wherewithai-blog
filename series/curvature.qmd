@@ -1,0 +1,30 @@
+---
+title: "Curvature Methods in Machine Learning"
+page-layout: article
+listing:
+  contents: ../posts
+  include:
+    categories: "curvature"
+  sort: "date desc"
+  type: default
+  categories: false
+---
+
+## Series Overview
+
+This series explores geometric approaches to understanding neural networks and optimization landscapes through the lens of curvature. We examine how differential geometry, Riemannian manifolds, and curvature tensors can provide insights into the behavior of deep learning systems.
+
+### Key Topics Covered:
+- Loss landscape geometry and critical points
+- Natural gradient methods and Fisher information
+- Hessian analysis and second-order optimization
+- Geometric deep learning on manifolds
+- Connections to physics and information geometry
+
+### Why Curvature Matters
+
+Understanding the curvature of optimization landscapes helps us design better algorithms, predict training dynamics, and build more interpretable models. By bringing tools from differential geometry to bear on machine learning problems, we can uncover fundamental principles that govern learning in high-dimensional spaces.
+
+---
+
+## Posts in this Series

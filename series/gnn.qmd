@@ -1,0 +1,30 @@
+---
+title: "Graph Neural Networks"
+page-layout: article
+listing:
+  contents: ../posts
+  include:
+    categories: "gnn"
+  sort: "date desc"
+  type: default
+  categories: false
+---
+
+## Series Overview
+
+This series examines representation learning on structured data through graph neural networks. We explore how message passing, spectral methods, and topological insights combine to enable powerful learning on graphs.
+
+### Key Topics Covered:
+- Message passing neural networks and aggregation schemes
+- Spectral graph theory and graph convolutions
+- Expressiveness and the Weisfeiler-Leman hierarchy
+- Graph attention mechanisms and transformers
+- Applications to molecules, social networks, and knowledge graphs
+
+### Structured Learning
+
+Graphs provide a natural representation for relational data, and GNNs offer a principled way to learn from this structure. By understanding the theoretical foundations and practical considerations, we can build models that respect and exploit the geometry of our data.
+
+---
+
+## Posts in this Series

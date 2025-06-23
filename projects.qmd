@@ -1,0 +1,20 @@
+---
+title: "Key Projects"
+page-layout: article
+---
+
+# Key Projects from Wherewith.ai
+
+*[This page will showcase your key research projects - please add your content here]*
+
+## Current Projects
+
+*[Add your current projects here]*
+
+## Past Projects
+
+*[Add your past projects here]*
+
+## Collaborations
+
+*[Add your collaborations here]*

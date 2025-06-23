@@ -1,0 +1,20 @@
+---
+title: "The Wherewithal Manifesto"
+page-layout: article
+---
+
+# The Wherewithal Manifesto
+
+*[This page will contain the Wherewithal Manifesto - please add your content here]*
+
+## Core Principles
+
+*[Add your core principles here]*
+
+## Vision
+
+*[Add your vision statement here]*
+
+## Research Philosophy
+
+*[Add your research philosophy here]*

@@ -1,0 +1,30 @@
+---
+title: "Neural Network Interpretability"
+page-layout: article
+listing:
+  contents: ../posts
+  include:
+    categories: "interpretability"
+  sort: "date desc"
+  type: default
+  categories: false
+---
+
+## Series Overview
+
+This series tackles the challenge of understanding what neural networks learn and how they make decisions. We explore techniques from mechanistic interpretability to feature visualization, seeking to open the black box of deep learning.
+
+### Key Topics Covered:
+- Mechanistic interpretability and circuit discovery
+- Feature visualization and activation atlases
+- Probing methods and representation analysis
+- Causal interventions and ablation studies
+- Connections to neuroscience and cognitive science
+
+### Towards Transparent AI
+
+As neural networks become more powerful and ubiquitous, understanding their internal workings becomes crucial. This series presents rigorous methods for interpreting learned representations and uncovering the algorithms that emerge from gradient descent.
+
+---
+
+## Posts in this Series

@@ -1,0 +1,44 @@
+---
+title: "Wherewith.ai"
+page-layout: custom
+listing:
+  id: post-feed
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: false
+  filter-ui: false
+  max-items: 10
+---
+
+:::{.hero-section}
+# Wherewith.ai
+
+Welcome to the Wherewith.ai research lab, where we explore the frontiers of machine learning through rigorous analysis and creative experimentation. Our work spans from theoretical foundations to practical applications, always with an eye toward understanding the deeper patterns that govern intelligent systems.
+
+**[Read the Wherewithal Manifesto →](/manifesto)** | **[View Key Projects →](/projects)**
+
+:::{.sketch-container}
+<!-- Space for hand-drawn sketches - add your images here -->
+:::
+:::
+
+:::{.series-navigation}
+## Research Themes
+
+Explore our ongoing series of in-depth technical reviews and analyses:
+
+:::{.series-grid}
+- **[Curvature Methods in ML →](/series/curvature)** - Geometric approaches to understanding neural networks and optimization landscapes
+- **[Diffusion Models →](/series/diffusion)** - Deep dives into generative modeling with diffusion processes
+- **[Graph Neural Networks →](/series/gnn)** - Exploring representation learning on structured data
+- **[Interpretability →](/series/interpretability)** - Making sense of what neural networks learn
+:::
+:::
+
+:::{.posts-section}
+## Latest Posts
+
+<div id="post-feed"></div>
+:::

@@ -5,16 +5,16 @@ listing:
   id: post-feed
   contents: posts
   sort: "date desc"
-  type: default
+  type: table
   categories: true
   sort-ui: false
   filter-ui: false
   max-items: 10
+  fields: [title, description, categories, author]
+  table-striped: false
 ---
 
 :::{.hero-section}
-# Wherewith.ai
-
 Welcome to the Wherewith.ai research lab, where we explore the frontiers of machine learning through rigorous analysis and creative experimentation. Our work spans from theoretical foundations to practical applications, always with an eye toward understanding the deeper patterns that govern intelligent systems.
 
 **[Read the Wherewithal Manifesto →](/manifesto)** | **[View Key Projects →](/projects)**

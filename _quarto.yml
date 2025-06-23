@@ -8,7 +8,7 @@ website:
     right:
       - about.qmd
       - icon: github
-        href: https://github.com/professorwug/wherewithai-blog
+        href: https://github.com/WherewithAI/wherewithai-blog
 format:
   html:
     theme:
